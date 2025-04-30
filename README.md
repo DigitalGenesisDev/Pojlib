@@ -2,7 +2,7 @@
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Pojlib Build](https://github.com/DigitalGenesisDev/Pojlib/actions/workflows/gradle.yml/badge.svg)](https://github.com/QuestCraftPlusPlus/Pojlib/actions/workflows/gradle.yml)
 
-A Minecraft: Java Edition launcher library partially made with elements from PojavLauncher.
+A Minecraft: Java Edition launcher library with a BYOI (Bring your own interface) twist!
 
 This library was initially meant for use in QuestCraft but has turned into the perfect library for Minecraft: Java Edition launchers. This includes everything needed for a basic and (soon) even advanced MCJE launchers written in Java (or any other language with interop).
 
